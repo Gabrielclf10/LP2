@@ -1,0 +1,12 @@
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\bin\Debug\PVacina0030482023008.exe.config
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\bin\Debug\PVacina0030482023008.exe
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\bin\Debug\PVacina0030482023008.pdb
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.csprojAssemblyReference.cache
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.Properties.Resources.resources
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.csproj.GenerateResource.cache
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.csproj.CoreCompileInputs.cache
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.exe
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.pdb
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.FrmPrincipal.resources
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.frmVacina.resources
+D:\GABRIEL ARQUIVOS\GABRIEL ARQUIVOS\GABRIEL LEAO Atividades\2 semestre Faculdade\LP2\Projetos( Lição)\PVacina0030482023008\PVacina0030482023008\obj\Debug\PVacina0030482023008.AboutBox1.resources
